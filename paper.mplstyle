@@ -1,0 +1,12 @@
+figure.figsize: 8,6
+legend.fontsize: 16
+legend.frameon: False
+lines.linewidth: 4
+patch.linewidth: 2.2
+hatch.linewidth: 2
+xtick.direction: in
+ytick.direction: in
+xtick.minor.visible: True
+ytick.minor.visible: True
+# xtick.minor.size: 7
+# ytick.minor.size: 7
