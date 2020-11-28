@@ -1,11 +1,16 @@
 # Galaxy N-body simulation
-
-----------------------------
 11/28/2020
 Yukei S. Murakami ,UCB (sterling.astro@berkeley.edu)
 
+---------------------------------------------------------
+![](img/gal_Nbody_sample.png)
+
 This is a prototype version of an introductory N-body simulation (2D) with a Milky-Way-like galaxy density profile.<br>
 There are two main code files (jupyter notebook): ```Density_profile_prep.ipynb``` and ```Simulation.ipynb```.
+
+
+**note: this repository does not include ```data/``` and ```ani/``` folders where data and aminations are saved. please prepare these folders on your own.**
+
 
 ## ```Density_profile_prep.ipynb```: 
 In this simulation, to make the code run faster and coding easier, we assume a static global mass density distribution.<br>
