@@ -2,8 +2,8 @@
 11/28/2020
 Yukei S. Murakami ,UCB (sterling.astro@berkeley.edu)
 
----------------------------------------------------------
 ![](img/gal_Nbody_sample.png)
+(for a video version of this sample output, please visit: https://youtu.be/9lIqs2ast2k)
 
 This is a prototype version of an introductory N-body simulation (2D) with a Milky-Way-like galaxy density profile.<br>
 There are two main code files (jupyter notebook): ```Density_profile_prep.ipynb``` and ```Simulation.ipynb```.
